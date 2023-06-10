@@ -1,0 +1,85 @@
+<p class="ff-roboto fw-400 fs-13 padding-top1">© Copyright ChatApp Inc.</p>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-4 padding-top2">
+            <h1 style="color:#1E71FF;" class="fw-600 fs-26 ff-poppins padding-bottom">chat<span
+                    style="color: #1E71FF;" class="fw-300 fs-26 ff-poppins">app</span></h1>
+            <p class="ff-roboto fw-400 fs-15 ">The last team chat you<br>will ever need.</p>
+        </div>
+        <div class="col-8 col-sm-12 padding-top2">
+            <div class="d-flex ">
+                <div class="col2 d-flex d-flex-direction  ">
+                    <a href="" class="ff-poppins fw-400 fs-18 padding-bottom">Help</a>
+                    <a href="" class="ff-roboto fw-400 fs-13 padding-bottom1">Support</a>
+                    <a href="" class="ff-roboto fw-400 fs-13 padding-bottom1">Knowledgebase</a>
+                    <a href="" class="ff-roboto fw-400 fs-13 padding-bottom1">Tutorials</a>
+                </div>
+                <div class="col2 d-flex d-flex-direction">
+                    <a href="" class="ff-poppins fw-400 fs-18 padding-bottom">Features</a>
+                    <a href="" class="ff-roboto fw-400 fs-13 padding-bottom1">Screen Sharing</a>
+                    <a href="" class="ff-roboto fw-400 fs-13 padding-bottom1">iOS & Android Apps</a>
+                    <a href="" class="ff-roboto fw-400 fs-13 padding-bottom1">File Sharing</a>
+                    <a href="" class="ff-roboto fw-400 fs-13 padding-bottom1">User Management</a>
+                </div>
+            </div>
+            <div class="col-xsm-12 d-flex">
+                <div class="col2 d-flex d-flex-direction">
+
+                    <a href="" class="ff-poppins fw-400 fs-18 padding-bottom">Company</a>
+                    <a href="" class="ff-roboto fw-400 fs-13 padding-bottom1">About Us</a>
+                    <a href="" class="ff-roboto fw-400 fs-13 padding-bottom1">Careers</a>
+                    <a href="" class="ff-roboto fw-400 fs-13 padding-bottom1">Contact Us</a>
+                </div>
+                <div class="col2 d-flex d-flex-direction">
+                    <a href="" class="ff-poppins fw-400 fs-18 padding-bottom">Contact Us</a>
+                    <a href="" class="ff-roboto fw-400 fs-13 padding-bottom1">info@chatapp.com</a>
+                    <a href="" class="ff-roboto fw-400 fs-13 padding-bottom1">1-800-200-300</a>
+                    <a href="" class="ff-roboto fw-400 fs-13 padding-bottom1">3500 Deer Creek Rd<br>Palo
+                        Alto, CA</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-4 padding-top2">
+            <h1 style="color:#1E71FF;" class="fw-600 fs-26 ff-poppins padding-bottom">chat<span style="color: #1E71FF;"
+                    class="font-2">app</span></h1>
+            <p class="ff-roboto fw-400 fs-15 ">The last team chat you<br>will ever need.</p>
+            <p class="font-15 padding-top1">© Copyright ChatApp Inc.</p>
+        </div>
+        <div class="col-8 padding-top2">
+            <div class="d-flex  js-space-between">
+                <ul>
+                    <li class="ff-poppins fw-400 fs-18 padding-bottom">Help</li>
+                    <li class="ff-roboto fw-400 fs-13 padding-bottom1">Support</li>
+                    <li class="ff-roboto fw-400 fs-13 padding-bottom1">Knowledgebase</li>
+                    <li class="ff-roboto fw-400 fs-13 padding-bottom1">Tutorials</li>
+                </ul>
+                <ul>
+                    <li class="ff-poppins fw-400 fs-18 padding-bottom">Features</li>
+                    <li class="ff-roboto fw-400 fs-13 padding-bottom1">Screen Sharing</li>
+                    <li class="ff-roboto fw-400 fs-13 padding-bottom1">iOS & Android Apps</li>
+                    <li class="ff-roboto fw-400 fs-13 padding-bottom1">File Sharing</li>
+                    <li class="ff-roboto fw-400 fs-13 padding-bottom1">User Management</li>
+                </ul>
+                <ul>
+                    <li class="ff-poppins fw-400 fs-18 padding-bottom">Company</li>
+                    <li class="ff-roboto fw-400 fs-13 padding-bottom1">About Us</li>
+                    <li class="ff-roboto fw-400 fs-13 padding-bottom1">Careers</li>
+                    <li class="ff-roboto fw-400 fs-13 padding-bottom1">Contact Us</li>
+                </ul>
+                <ul>
+                    <li class="ff-poppins fw-400 fs-18 padding-bottom">Contact Us</li>
+                    <li class="ff-roboto fw-400 fs-13 padding-bottom1">info@chatapp.com</li>
+                    <li class="ff-roboto fw-400 fs-13 padding-bottom1">1-800-200-300</li>
+                    <li class="ff-roboto fw-400 fs-13 padding-bottom1">3500 Deer Creek Rd<br>Palo Alto, CA</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
