@@ -48,8 +48,7 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    margin-left: -12px;
-    margin-right: -12px;
+
 }
 
 .col-12 {
@@ -511,7 +510,7 @@
         background-color: #1E71FF;
 
     }
-    label[for="icon-box"] {
+    label[for="icon-box"]{
       height: 35px;
       width: 50px;
       display: flex;
@@ -522,15 +521,17 @@
     }
 
     label[for="icon-box"]>span{
-        height: 7px;
-        width: 100%;
+        height: 6px;
+        width: 80%;
+        border-radius: 10px;
         background-color: #FFFFFF;
     }
 
-    input[type="checkbox"]:checked+ul.nav-hide{
+    input[type="checkbox"]:checked+div.nav-hide{
         opacity: 1;
         left: 0%;
     }
+
 }
 
 @media (max-width: 576px) {
